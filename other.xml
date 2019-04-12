@@ -1,0 +1,23 @@
+<application>
+  <component name="RecentTaskRepositories">
+    <Redmine shared="false" url="http://172.20.11.59:8080/redmine">
+      <option name="APIKey" value="" />
+      <option name="assignedToMe" value="true" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="currentProject">
+        <RedmineProject id="17" identifier="issue-tracking" />
+      </option>
+      <password>dfd2dfc3dfcbdfc5dfd3dfdfdf98df9adf9bdf9adf80</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>zhangyazhou</username>
+    </Redmine>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+  </component>
+</application>
