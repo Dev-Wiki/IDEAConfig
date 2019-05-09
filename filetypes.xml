@@ -3,9 +3,7 @@
     <extensionMap>
       <mapping pattern="packCmonlineReleaseOffice" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
-      <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
-      <removed_mapping ext="so" type="UNKNOWN" />
     </extensionMap>
   </component>
 </application>
