@@ -1,0 +1,8 @@
+<templateSet group="zhangyazhou">
+  <template name="jdoc" value="/** $content$ */" toReformat="false" toShortenFQNames="true">
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
