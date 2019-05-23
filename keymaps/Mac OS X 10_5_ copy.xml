@@ -7,12 +7,14 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="EditorDuplicate" />
+  <action id="Exit" />
   <action id="FileChooser.GotoDesktop" />
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
     <keyboard-shortcut first-keystroke="ctrl j" />
     <mouse-shortcut keystroke="control button2" />
     <keyboard-shortcut first-keystroke="ctrl q" />
+    <keyboard-shortcut first-keystroke="meta q" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
