@@ -2,7 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="packCmonlineReleaseOffice" type="PLAIN_TEXT" />
+      <mapping pattern="packCaslinkReleaseOffice" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="uvc" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
