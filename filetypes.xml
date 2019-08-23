@@ -4,6 +4,7 @@
       <mapping ext="so" type="Native" />
       <mapping pattern="packCaslinkReleaseOffice" type="PLAIN_TEXT" />
       <mapping pattern="packCmonlineReleaseOffice" type="PLAIN_TEXT" />
+      <mapping ext="uml" type="PLAIN_TEXT" />
       <mapping ext="uvc" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <removed_mapping ext="so" approved="true" type="UNKNOWN" />
