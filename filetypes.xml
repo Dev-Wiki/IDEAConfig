@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="so" type="Native" />
       <mapping pattern="packCaslinkReleaseOffice" type="PLAIN_TEXT" />
       <mapping pattern="packCmonlineReleaseOffice" type="PLAIN_TEXT" />
