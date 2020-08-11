@@ -1,0 +1,13 @@
+<application>
+  <component name="DistinctDevice">
+    <option name="androidVersion" value="9" />
+    <option name="emui" value="9.1.1" />
+    <option name="model" value="spn-al00" />
+    <option name="phoneName" value="nova 5i pro" />
+    <option name="status" value="ready" />
+    <option name="total" value="4" />
+    <option name="valid" value="4" />
+    <option name="xres" value="1080" />
+    <option name="yres" value="2340" />
+  </component>
+</application>
