@@ -9,7 +9,6 @@
   <action id="EditorDuplicate" />
   <action id="Exit" />
   <action id="FileChooser.GotoDesktop" />
-  <action id="GotoAction" />
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
     <keyboard-shortcut first-keystroke="ctrl j" />
@@ -20,11 +19,5 @@
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
   <action id="XDebugger.CopyWatch" />
-  <action id="android.deploy.ApplyChanges">
-    <keyboard-shortcut first-keystroke="ctrl meta r" />
-  </action>
-  <action id="android.deploy.CodeSwap">
-    <keyboard-shortcut first-keystroke="shift ctrl meta r" />
-  </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
